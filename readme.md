@@ -3,6 +3,7 @@
 A port of [seoul256](https://github.com/junegunn/seoul256.vim) color scheme to
 [ghostty](https://ghostty.org/)
 
+![Screenshot of running colortest inside of a terminal running the seoul256 colorscheme](./colortest.png)
 
 # Installation
 
