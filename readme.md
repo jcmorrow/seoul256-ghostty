@@ -7,7 +7,7 @@ A port of [seoul256](https://github.com/junegunn/seoul256.vim) color scheme to
 
 ### Light
 
-![Screenshot of running colortest inside of a terminal running the seoul256-light colorscheme](./colortest-light.png)
+![Screenshot of running colortest inside of a terminal running the seoul256-light colorscheme](./colortest_light.png)
 
 # Installation
 
